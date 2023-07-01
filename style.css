@@ -233,11 +233,7 @@ body {
     /* border: 3px solid rgb(206, 248, 21); */
     /* padding: 15px; */
     width: 100%;
-    height: 100%;
-    
-}
-.container-img-top img{
-
+    height: 100%;   
 }
 .row{
     display: flex;
